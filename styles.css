@@ -1,0 +1,86 @@
+* {
+    padding: 4px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: auto;
+    position: relative;
+
+}
+
+.container img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 81%;
+}
+
+.container .text {
+    position: absolute;
+    color: white;
+    left: 150px;
+    top: 200px;
+}
+
+
+nav {
+    background-color: #f2dcdc;
+    width: 80%;
+    height: 100px;
+    margin: 10px auto;
+    /*center. the vav horizontally */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    margin: 10px;
+    padding: 10px;
+
+}
+
+a:hover {
+    /*background-color:*/
+    border-top: 3px #ede8e8;
+    border-bottom: 3px #ede8e8;
+}
+
+.biography {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 10px;
+    background: #f2dcdc;
+    background-clip: border-box;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    color: #eda6a6;
+}
+
+.me {
+    text-align: center;
+    display: block;
+    width: 54.5%;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 15px;
+    background: #f2dcdc;
+    background-clip: border-box;
+}
+
+.example1 {
+    border: 10px #ede8e8;
+    padding: 15px;
+    background: #f2dcdc;
+    background-clip: border-box;
+}
