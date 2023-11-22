@@ -31,7 +31,6 @@ nav {
     width: 80%;
     height: 100px;
     margin: 10px auto;
-    /*center. the vav horizontally */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,7 +43,7 @@ a {
 }
 
 a:hover {
-    /*background-color:*/
+
     border-top: 3px #ede8e8;
     border-bottom: 3px #ede8e8;
 }
@@ -52,7 +51,7 @@ a:hover {
 .biography {
     text-align: center;
     margin-left: 300px;
-    margin-right: 300px;
+    margin-right: 348px;
     padding: 10px;
     background: #f2dcdc;
     background-clip: border-box;
@@ -73,13 +72,6 @@ a:hover {
     width: 54.5%;
     margin-left: 300px;
     margin-right: 300px;
-    padding: 15px;
-    background: #f2dcdc;
-    background-clip: border-box;
-}
-
-.example1 {
-    border: 10px #ede8e8;
     padding: 15px;
     background: #f2dcdc;
     background-clip: border-box;
