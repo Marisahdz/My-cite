@@ -61,6 +61,16 @@ a:hover {
     color: #7fbadb;
 }
 
+.hangman {
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+    color: #7fbadb;
+    background: #d4e4ed;
+    margin-left: 300px;
+    margin-right: 350px;
+}
+
 .pic1 {
     text-align: center;
     display: block;
